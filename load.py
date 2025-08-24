@@ -5,7 +5,7 @@ def load_data(data, output_path):
 
     with open (output_path, "w") as outfile:
         writer = csv.DictWriter(outfile,fieldnames=data[0].keys())
-        #write this csv file using these columns, give one dict per row
+    
         writer.writeheader()
-        #writer is a variable assigned from DictWriter
+        
         writer.writerows(data)
