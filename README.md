@@ -69,6 +69,3 @@ To me, this project is proof of my **curiosity and willingness to learn**. At EY
 ## Conclusion  
 
 This Data Pipeline Project is my **first step into coding**. It may be small, but it carries a bigger meaning: my determination to **learn beyond my major**, my ability to **adapt to new tools**, and my motivation to apply these skills in the real world.  
-
-I look forward to continuing this journey with EY, where I can transform this curiosity into **professional expertise in ABAP consulting**.  
-
