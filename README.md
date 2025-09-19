@@ -2,7 +2,7 @@
 
 My name is **Cao Ngoc Hong Anh**, a fourth-year student majoring in International Business. During my studies, I discovered a strong passion for **technology and coding**, which motivated me to challenge myself with my very first coding project: **a Simple Data Pipeline (ETL)**.  
 
-Although I do not come from a Computer Science background, I wanted to **prove to myself** that I could learn coding logic, debug errors, and document technical work in a structured way. This project represents the starting point of my journey into technology—and I hope it also shows my potential to grow into the **SAP ABAP Intern role at EY**.  
+Although I do not come from a Computer Science background, I wanted to **prove to myself** that I could learn coding logic, debug errors, and document technical work in a structured way. This project represents the starting point of my journey into technology—and I hope it also shows my potential to grow into the Tech World.  
 
 ---
 
