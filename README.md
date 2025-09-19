@@ -9,7 +9,7 @@ Although I do not come from a Computer Science background, I wanted to **prove t
 ## Project Title: Designing a Simple Data Pipeline Project  
 
 ### Abstract  
-This project simulates the **Extract → Transform → Load (ETL)** process, where raw sales data is cleaned and organized into a ready-to-use format. While it does not directly use ABAP, the skills I practiced: **modular coding, error handling, debugging, and clear documentation** mirror the daily responsibilities of an ABAP developer.  
+This project simulates the **Extract → Transform → Load (ETL)** process, where raw sales data is cleaned and organized into a ready-to-use format.  
 
 ---
 
